@@ -11,7 +11,7 @@ The system follows a **client-server architecture** with a modern frontend and a
 ## 🎯 Objectives
 - Automate student assessment and grading
 - Provide role-based access for Admin and Student
-- Ensure secure and scalable exam management
+- Ensure secure and scalable exam management system
 - Offer a clean and responsive user interface
 
 ---
